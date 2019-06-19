@@ -1,7 +1,7 @@
 {
   "name": "macaca-mocha-parallel-tests",
   "version": "2.2.1",
-  "homepage": "https://github.com/mocha-parallel/mocha-parallel-tests",
+  "homepage": "https://github.com/macacajs/mocha-parallel-tests",
   "description": "Run mocha tests in parallel",
   "main": "./dist/main/mocha.js",
   "module": "./dist/main/mocha.js",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mocha-parallel/mocha-parallel-tests.git"
+    "url": "git://github.com/macacajs/mocha-parallel-tests.git"
   },
   "bugs": {
-    "url": "https://github.com/mocha-parallel/mocha-parallel-tests/issues"
+    "url": "https://github.com/macacajs/mocha-parallel-tests/issues"
   },
   "files": [
     "bin",
