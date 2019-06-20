@@ -1,6 +1,6 @@
 {
   "name": "macaca-mocha-parallel-tests",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "homepage": "https://github.com/macacajs/mocha-parallel-tests",
   "description": "Run mocha tests in parallel",
   "main": "./dist/main/mocha.js",
@@ -19,6 +19,7 @@
     "Hennadii Bulakh"
   ],
   "dependencies": {
+    "tslib": "1.x",
     "debug": "^4.1.1",
     "macaca-circular-json": "^0.5.10",
     "uuid": "^3.3.2",
