@@ -1,7 +1,5 @@
 # macaca-mocha-parallel-tests
 
-> 特别注意：build 之前需要将 @types 文件夹复制到 node_modules/@types 中。
-
 ---
 
 [![NPM version][npm-image]][npm-url]
